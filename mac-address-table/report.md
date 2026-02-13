@@ -59,6 +59,7 @@ Switch# clear mac address-table dynamic
 ```
 
 **MAC Table After Clear:**
+
 ![MAC Table](Screenshot_20260213_133245.png)
 
 **Observation:** *All dynamic entries removed. Switch has "forgotten" all MAC addresses.*
